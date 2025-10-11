@@ -1,0 +1,5 @@
+#Ride Name,x,y,width,height,capacity,duration,fun
+Ferris Wheel,15,45,15,15,16,20,1.5
+RollerCoaster,40,50,35,15,8,12,2.0
+Pirate Ship,50,20,15,10,12,8,1.2
+DropTower,80,35,5,20,12,8,1.8
